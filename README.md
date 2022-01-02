@@ -1,0 +1,2 @@
+# PlanetsFlaskApi
+Download file and open in vs code. Open main.py and right click and click on 'Run Python File in Terminal'. You will see a link generated with a port number once you run the main.py file. Ngrok is required. Download ngrok.exe and run ngrok http 5000 or your port number. You will get two links; copy the https link. In the planets app file, change the url in the DetailsScreen and HomeScreen to the link you copied.
